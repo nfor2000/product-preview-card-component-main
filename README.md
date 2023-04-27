@@ -20,9 +20,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![Web capture_27-4-2023_114820_](https://user-images.githubusercontent.com/124421807/234841394-935d3f6c-1354-404f-94fb-50b1c0af789e.jpeg)
+![Web capture_27-4-2023_115341_](https://user-images.githubusercontent.com/124421807/234842145-dcac8700-5535-45b2-a372-c94e48ce6964.jpeg)
+![Web capture_27-4-2023_115357_](https://user-images.githubusercontent.com/124421807/234842178-b8395557-429b-4de6-b4e9-3355549ef744.jpeg)
 
-![Web capture_27-4-2023_11509_](https://user-images.githubusercontent.com/124421807/234841205-fbb84591-f0ca-44c8-8ed1-d0a38f0dbaca.jpeg)
 
 
 ### Links
